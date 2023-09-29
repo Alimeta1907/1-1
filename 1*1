@@ -1,0 +1,6 @@
+int x=0, y=0, z=0;
+x += 5;//x'e 5 ekle ve x'e eşitle 2.yol x = x + 5 şeklinde de yazılabilir.
+y += 7;//y'ye 7 ekle ve y'ye eşitle 2.yol y = y + 7 şeklinde de yazılabilir.
+z += x;//z'ye x'i ekle ve z'ye eşitle 2.yol z = z + x şeklinde de yazılabilir.
+İşlem sonucu: x=5, y=7, z=5 olur.
+Not: Bir bir artırma işlemi için x+=1 (veya x=x+1) yerine x++ işlemi kullanılabilir.
